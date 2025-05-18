@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeiadkh" alt="zeiadkh" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs**
-
 - 👨‍💻 All of my projects are available at [https://zeiadkhaled.netlify.app/](https://zeiadkhaled.netlify.app/)
 
 - 📫 How to reach me **zeyad.khaleid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sPdhuz4kTGpQFIhyQrQzxHrRzAmAN8DD/view?usp=sharing](https://drive.google.com/file/d/1sPdhuz4kTGpQFIhyQrQzxHrRzAmAN8DD/view?usp=sharing)
+- 📄 Know about my experiences [cv-link](https://oneresume-vd25.onrender.com/api/cv/zeiad)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
